@@ -1,2 +1,3 @@
 line1 added from local machine
 line2 added from local machine
+line3 added from local machine
